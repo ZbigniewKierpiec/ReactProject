@@ -1,0 +1,22 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+   display: flex;
+   justify-content: center;
+} 
+.green{color: green;}
+.red{color: red;
+font-weight: bolder;
+
+}
+p{
+    font-size: 25px;
+    align-self: center;
+}
+
+button{
+    font-size: 30px;
+    padding: 15px;
+   
+}
